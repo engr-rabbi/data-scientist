@@ -1,0 +1,56 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# build output
+/.next/
+/out/
+/build
+*.tsbuildinfo
+next-env.d.ts
+
+# environment — NEVER commit real secrets (only .env.example)
+.env
+.env.*
+!.env.example
+
+# local databases & uploads (data lives in Google Sheets / Drive now)
+/db/
+*.db
+*.sqlite
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+
+# testing / misc
+/coverage
+.DS_Store
+*.pem
+.vercel
+
+# editor / sandbox artefacts
+.claude
+.z-ai-config
+.zscripts/
+/skills/
+/tool-results/
+/download/
+/upload/
+/qa/
+/mini-services/
+local-*
+
+# generated at build time
+public/content-version.json
+
+# pictures copied from Google Drive at build time
+/public/media/

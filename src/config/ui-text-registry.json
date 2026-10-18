@@ -1,0 +1,397 @@
+[
+  {
+    "text": "About Me",
+    "group": "About section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "From Engineering to Data & AI",
+    "group": "About section",
+    "where": "title"
+  },
+  {
+    "text": "Full About page",
+    "group": "About section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Achievements in numbers",
+    "group": "Achievement stats section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "A track record you can verify",
+    "group": "Achievement stats section",
+    "where": "title"
+  },
+  {
+    "text": "Every figure below is derived from public repositories or the verified CV — click through the Kaggle work and GitHub code to check it yourself.",
+    "group": "Achievement stats section",
+    "where": "description"
+  },
+  {
+    "text": "Discovery Call",
+    "group": "Book a call section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Book a Free 30-Minute Intro Call",
+    "group": "Book a call section",
+    "where": "title"
+  },
+  {
+    "text": "Propose a time that suits you — we'll talk through your data problem, the practical approach and the rough scope. No obligations, no charge.",
+    "group": "Book a call section",
+    "where": "description"
+  },
+  {
+    "text": "Career Journey",
+    "group": "Career journey section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "One Story: Engineering → Data → AI",
+    "group": "Career journey section",
+    "where": "title"
+  },
+  {
+    "text": "Every stage compounds: engineering discipline, industry experience and project delivery became the foundation for analytics, machine learning and applied AI.",
+    "group": "Career journey section",
+    "where": "description"
+  },
+  {
+    "text": "Case Studies",
+    "group": "Case studies section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Deep Dives",
+    "group": "Case studies section",
+    "where": "title"
+  },
+  {
+    "text": "The full professional format: Challenge → Data → Quality → Approach → Technology → Results → Business Meaning → Limitations → Next Step.",
+    "group": "Case studies section",
+    "where": "description"
+  },
+  {
+    "text": "Case Studies page",
+    "group": "Case studies section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Certifications & Training",
+    "group": "Certifications section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Verified Credentials",
+    "group": "Certifications section",
+    "where": "title"
+  },
+  {
+    "text": "All credentials",
+    "group": "Certifications section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Certified & trained",
+    "group": "Certifications strip section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Formal credentials behind the practice",
+    "group": "Certifications strip section",
+    "where": "title"
+  },
+  {
+    "text": "Certifications and professional trainings from the verified CV — the formal layer under the hands-on work.",
+    "group": "Certifications strip section",
+    "where": "description"
+  },
+  {
+    "text": "Verified Credentials, Categorized",
+    "group": "Credentials explorer section",
+    "where": "title"
+  },
+  {
+    "text": "Every certificate and training below is sourced from the verified CV — filter by category to see how data science, machine learning, big data and project management fit together.",
+    "group": "Credentials explorer section",
+    "where": "description"
+  },
+  {
+    "text": "Interactive",
+    "group": "Demo showcase section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Try a Live Mini-Demo",
+    "group": "Demo showcase section",
+    "where": "title"
+  },
+  {
+    "text": "Lightweight demonstrations of the kind of analysis I deliver. Synthetic data — clearly labeled.",
+    "group": "Demo showcase section",
+    "where": "description"
+  },
+  {
+    "text": "Experience",
+    "group": "Experience section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "A Background Wider Than Freelancing",
+    "group": "Experience section",
+    "where": "title"
+  },
+  {
+    "text": "Real engineering organizations, international delivery, and structured project management — applied to every data engagement.",
+    "group": "Experience section",
+    "where": "description"
+  },
+  {
+    "text": "Experience page",
+    "group": "Experience section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "What I can do",
+    "group": "Expertise areas section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Expertise you can put to work",
+    "group": "Expertise areas section",
+    "where": "title"
+  },
+  {
+    "text": "Six practical domains — each one backed by public code, formal certification and hands-on delivery.",
+    "group": "Expertise areas section",
+    "where": "description"
+  },
+  {
+    "text": "FAQ",
+    "group": "Faq section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Frequently Asked Questions",
+    "group": "Faq section",
+    "where": "title"
+  },
+  {
+    "text": "Insights",
+    "group": "Insights section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Notes From the Field",
+    "group": "Insights section",
+    "where": "title"
+  },
+  {
+    "text": "Practical writing on data analytics, machine learning and applied AI — the same thinking I bring to client projects.",
+    "group": "Insights section",
+    "where": "description"
+  },
+  {
+    "text": "Verified public work",
+    "group": "Kaggle activities section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Kaggle & Open Data Science Work",
+    "group": "Kaggle activities section",
+    "where": "title"
+  },
+  {
+    "text": "Verified via my public GitHub repositories — participation and code only; no ranks or medals claimed.",
+    "group": "Kaggle activities section",
+    "where": "description"
+  },
+  {
+    "text": "All activities & profiles",
+    "group": "Kaggle activities section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Kaggle",
+    "group": "Kaggle work section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Kaggle Competitions, Notebooks & Dataset Work",
+    "group": "Kaggle work section",
+    "where": "title"
+  },
+  {
+    "text": "Hands-on data science in the open: competition entries, reproducible notebooks and dataset analyses, each linked to its public code. Rankings and results appear only where verified.",
+    "group": "Kaggle work section",
+    "where": "description"
+  },
+  {
+    "text": "All Kaggle work",
+    "group": "Kaggle work section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Pages",
+    "group": "Menu & buttons",
+    "where": "top menu"
+  },
+  {
+    "text": "Dedicated pages",
+    "group": "Menu & buttons",
+    "where": "top menu"
+  },
+  {
+    "text": "Home",
+    "group": "Menu & buttons",
+    "where": "top menu"
+  },
+  {
+    "text": "View page",
+    "group": "Menu & buttons",
+    "where": "section links"
+  },
+  {
+    "text": "About me",
+    "group": "Menu & buttons",
+    "where": "homepage about card"
+  },
+  {
+    "text": "Find Me Online",
+    "group": "Platforms section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Professional Profiles",
+    "group": "Platforms section",
+    "where": "title"
+  },
+  {
+    "text": "The same name and positioning across every platform.",
+    "group": "Platforms section",
+    "where": "description"
+  },
+  {
+    "text": "Kaggle & profiles",
+    "group": "Platforms section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Pricing",
+    "group": "Pricing section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Simple, Transparent Ways to Work Together",
+    "group": "Pricing section",
+    "where": "title"
+  },
+  {
+    "text": "Pick the engagement shape that fits your situation — every path starts with a short scoping call and a written quote.",
+    "group": "Pricing section",
+    "where": "description"
+  },
+  {
+    "text": "Portfolio",
+    "group": "Projects section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Projects & Case Work",
+    "group": "Projects section",
+    "where": "title"
+  },
+  {
+    "text": "Every project is a mini case study: problem → solution → technology. Entries are demonstrations on public/synthetic datasets — client results are added as verified projects complete.",
+    "group": "Projects section",
+    "where": "description"
+  },
+  {
+    "text": "Projects page",
+    "group": "Projects section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Services",
+    "group": "Services section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "What I Can Do For You",
+    "group": "Services section",
+    "where": "title"
+  },
+  {
+    "text": "Business-oriented service architecture — from raw data to deployed AI. Every engagement follows a structured, documented process.",
+    "group": "Services section",
+    "where": "description"
+  },
+  {
+    "text": "Services page",
+    "group": "Services section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Skills",
+    "group": "Skills section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "A Focused, Verified Toolkit",
+    "group": "Skills section",
+    "where": "title"
+  },
+  {
+    "text": "Only technologies supported by real training and project work — grouped by what they deliver.",
+    "group": "Skills section",
+    "where": "description"
+  },
+  {
+    "text": "Skills page",
+    "group": "Skills section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "Start a Project",
+    "group": "Start project section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Tell Me About Your Project",
+    "group": "Start project section",
+    "where": "title"
+  },
+  {
+    "text": "Describe what you are trying to achieve — I will review it and respond with the most practical approach, then a clear quotation. No obligations.",
+    "group": "Start project section",
+    "where": "description"
+  },
+  {
+    "text": "Testimonials",
+    "group": "Testimonials section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "What Clients Say",
+    "group": "Testimonials section",
+    "where": "title"
+  },
+  {
+    "text": "Testimonials page",
+    "group": "Testimonials section",
+    "where": "moreLabel"
+  },
+  {
+    "text": "What I Can Solve",
+    "group": "What i can solve section",
+    "where": "eyebrow"
+  },
+  {
+    "text": "Tell Me Your Problem — I'll Map the Data Solution",
+    "group": "What i can solve section",
+    "where": "title"
+  }
+]

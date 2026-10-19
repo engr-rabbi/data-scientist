@@ -1,8 +1,7 @@
 name: Deploy site
 
 # Builds the static site (Next.js export) and publishes it to GitHub Pages.
-# Runs on: every push to main · manual run · every 30 min if the admin changed content in the Google Sheet.
-# The 30-minute check is one tiny request to the Google Apps Script web app (it compares content versions).
+# Runs on: every push to main · manual run · repository_dispatch event.
 
 on:
   push:
@@ -10,8 +9,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [content-updated]
-  schedule:
-    - cron: "*/30 * * * *"
 
 permissions:
   contents: read
